@@ -8,6 +8,7 @@ The standard helps:
 - define what good digital practice looks like in Edo
 - us create consistent, high-quality digital services that build public trust
 - identify the steps teams need to take to get there
+- ensure we are building services that meet all users' needs regardless of their abilities
 
 ### How it should be used
 These are the standards by which digital public-facing services in Edo State will be assessed before they are published and made available to the public.
