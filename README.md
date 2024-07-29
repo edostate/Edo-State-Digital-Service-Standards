@@ -6,6 +6,7 @@
 The standard helps:
 
 - define what good digital practice looks like in Edo
+- us create consistent, high-quality digital services that build public trust
 - identify the steps teams need to take to get there
 
 ### How it should be used
