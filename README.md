@@ -19,7 +19,7 @@ These are the standards by which digital public-facing services in Edo State wil
 
 ### **1. [Make sure your service meets your users' needs](#1-make-sure-your-service-meets-your-users-needs-1)**
 
-**Users should continuously be engaged and involved from the initial design all the way through development, implementation, and improvement of the service.**
+Users should continuously be engaged and involved from the initial design all the way through development, implementation, and improvement of the service.
 
 
 ### **2. [Discover, design, build and deliver with a multidisciplinary team](#2-discover-design-build-and-deliver-with-a-multidisciplinary-team-1)**
